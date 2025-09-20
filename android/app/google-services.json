@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "55319028100",
+    "project_id": "todo-app-firebase-flutte-a1278",
+    "storage_bucket": "todo-app-firebase-flutte-a1278.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55319028100:android:e8b3739ac1eaaa9301bdd1",
+        "android_client_info": {
+          "package_name": "com.example.todo_app_firebase_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55319028100-7fovc1022fh6q1juatohs8rj00o1al7s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.todo_app_firebase_flutter",
+            "certificate_hash": "6d5c5964826feb274a78fb10160bd1ad43350d1b"
+          }
+        },
+        {
+          "client_id": "55319028100-ojoj4l2padvo0hc4dqcq3g6ltn6k1lbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP9PzxRb9A4-DXaZ3YotBlZmg8puCRrEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55319028100-ojoj4l2padvo0hc4dqcq3g6ltn6k1lbs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "55319028100-fu586q4i2jfm879vgmkhq7n4u1bk5ic6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.todoAppFirebaseFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
